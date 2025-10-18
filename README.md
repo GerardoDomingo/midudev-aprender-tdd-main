@@ -1,0 +1,1 @@
+[![Platzi CI](https://github.com/GerardoDomingo/midudev-aprender-tdd-main/actions/workflows/node.js.yml/badge.svg)](https://github.com/GerardoDomingo/midudev-aprender-tdd-main/actions/workflows/node.js.yml)
